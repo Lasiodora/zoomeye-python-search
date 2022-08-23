@@ -21,6 +21,6 @@ optional arguments:
 
 ## Example starting
 ```
-python3 zoomeye_search.py -d app:"Microsoft IIS httpd" +country:"DE" -p 50 --ip True --url False -o my_out_file.txt
+python3 zoomeye_search.py -d app:"Microsoft IIS httpd"+country:"DE" -p 50 --ip True --url False -o my_out_file.txt
 ```
 
