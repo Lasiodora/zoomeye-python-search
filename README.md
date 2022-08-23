@@ -1,5 +1,4 @@
-# zoomeye-python-search
-## Simple searcher for ZoomEye
+## Simple searcher for ZoomEye 
 
 First of all, you should set API-KEY in code.
 
@@ -10,7 +9,7 @@ usage: zoomeye_search.py [-h] [-o FILE_NAME] -d DORK [-p PAGE] [--ip IP]
 optional arguments:
 
   -h, --help    show this help message and exit
-  -o FILE_NAME  output file                         default value = output.txt\n
+  -o FILE_NAME  output file                         default value = output.txt
   -d DORK       zoomeye dork. example: Windows 10
   -p PAGE       Count of pages from ZoomEye         default value = 5 (this is not enough, so set 50 or more)
   --ip IP       output IP:PORT                      default value = False ()
