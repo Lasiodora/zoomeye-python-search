@@ -17,4 +17,10 @@ optional arguments:
   --url URL     output https://URL                  default value = True
 
 ```
+---
+
+Example starting
+```
+python3 zoomeye_search.py -d Windows 10 -p 50 --ip True --url False -o my_out_file.txt
+```
 
