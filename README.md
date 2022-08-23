@@ -8,8 +8,8 @@ usage: zoomeye_search.py [-h] [-o FILE_NAME] -d DORK [-p PAGE] [--ip IP]
                          [--url URL]
 
 optional arguments:
-  -h, --help    show this help message and exit
-  -o FILE_NAME  output file                         default value = output.txt 
+  -h, --help    show this help message and exit\n
+  -o FILE_NAME  output file                         default value = output.txt\n
   -d DORK       zoomeye dork. example: Windows 10
   -p PAGE       Count of pages from ZoomEye         default value = 5 (this is not enough, so set 50 or more)
   --ip IP       output IP:PORT                      default value = False ()
