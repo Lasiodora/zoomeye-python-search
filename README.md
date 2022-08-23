@@ -3,6 +3,7 @@
 First of all, you should set API-KEY in code.
 
 ***
+```
 usage: zoomeye_search.py [-h] [-o FILE_NAME] -d DORK [-p PAGE] [--ip IP]
                          [--url URL]
 
@@ -15,5 +16,5 @@ optional arguments:
   --ip IP       output IP:PORT                      default value = False ()\
   --url URL     output https://URL                  default value = True\
 
-
+```
 
